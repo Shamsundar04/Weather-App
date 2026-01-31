@@ -1,28 +1,32 @@
-Weather App
+# Weather App
 
-A simple and responsive Weather Application built using HTML, CSS, and JavaScript.
-This application fetches real-time weather data from a weather API and displays temperature, humidity, wind speed, and weather conditions based on the city entered by the user.
+A modern and responsive Weather Application built using HTML, CSS, and JavaScript.  
+This application allows users to search for any city and view real-time weather information including temperature, humidity, wind speed, and weather conditions.
 
-Features
+---
 
-Search weather by city name
+## Live Features
 
-Displays temperature in Celsius
+- Search weather by city name  
+- Displays real-time temperature  
+- Shows humidity level  
+- Shows wind speed  
+- Displays weather condition (Clear, Clouds, Rain, etc.)  
+- Clean and responsive user interface  
+- Lightweight and fast performance  
 
-Shows humidity and wind speed
+---
 
-Displays weather condition (Clear, Cloudy, Rain, etc.)
+## Technologies Used
 
-Responsive user interface
+- HTML  
+- CSS  
+- JavaScript  
+- Weather API (such as OpenWeatherMap API)
 
-Fast and lightweight
+---
 
-Technologies Used
+## Application Preview
 
-HTML – Structure of the application
+Add screenshots of your project here:
 
-CSS – Styling and responsive layout
-
-JavaScript – Application logic and API integration
-
-Weather API (for example, OpenWeatherMap API)
